@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShengZhanINFO5126Quiz1_1</string>
+    <string name="yfp">Your favourite pokemon is</string>
+    <string name="btnSelect">Open Selection Activity</string>
+    <string name="gobackMain">Go Back to Main Activity</string>
+    <string name="choose">Choose your favourite Pokemon</string>
+    <string-array name="names">
+        <item>PiKachu</item>
+        <item>ButterFree</item>
+        <item>Squirtle</item>
+        <item>Chamander</item>
+        <item>Bulbasaur</item>
+    </string-array>
+</resources>
